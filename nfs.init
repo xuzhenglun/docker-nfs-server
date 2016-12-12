@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 . /etc/default/nfs-kernel-server
 . /etc/default/nfs-common
